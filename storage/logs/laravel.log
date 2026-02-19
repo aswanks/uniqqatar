@@ -1,0 +1,1 @@
+[2026-02-16 13:04:36] local.ERROR: Error exporting Excel: Undefined property: Illuminate\Support\Facades\Request::$sdate  
